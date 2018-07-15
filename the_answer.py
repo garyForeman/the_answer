@@ -1,2 +1,2 @@
 def the_answer():
-    return None
+    return 42
