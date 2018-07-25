@@ -1,2 +1,2 @@
-def the_answer():
+def the_answer(*args):
     return 42
